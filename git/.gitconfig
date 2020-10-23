@@ -1,0 +1,6 @@
+[user]
+	email = barkeracode@gmail.com
+	name = Adam Barker
+
+[alias]
+	hist = log --pretty=format:'%C(yellow)%ad%C(reset) %C(green)[%h]%C(reset) %C(bold magenta)|%C(reset) %C(white)%s %C(bold blue)%an%C(reset) %C(blue)%d%C(reset)' --graph --date=short
